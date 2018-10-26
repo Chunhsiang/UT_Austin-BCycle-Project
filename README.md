@@ -2,6 +2,8 @@
 
 This is the final project of Data Analytics programing. My group studied on: " Improving the rebalancing plan for Austin B-cycle, the bike sharing company,  to relief the traffic problem in Austin, Texas by using AUstin B-cycle's trip data and station data". I was mainly responsible for exploratory data analysis, and the bike traffic plot on Google map.
 
+Exploratory analysis notebook link : https://github.com/Chunhsiang/UT_Austin-BCycle_project/blob/master/EDA_Henry_plots.ipynb
+
 After finishing exploratory data analysis, we came up with several conslution: First, bike ride taken by different types of membership differ in their trip duration and the time of their bike rental. Second, bike rental trips differs significantly between weekdays and weekends. Third, while the bike trips boosts during festivals like South by South West and Austin City Limit, we consider Austin B-Cycle take an important role in transportation of these festivals and the bike rental pattern at that time will be very different.
 
 
